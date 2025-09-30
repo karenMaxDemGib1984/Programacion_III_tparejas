@@ -26,6 +26,7 @@ print("Ultimas filas de los datos: ")
 print(dataset.tail())
 print(" ")
 
+
 #Ordenando el dataset con la columna A de manera ascendente
 print("Datos ordenados por la columna 'A' (ascendente):")
 print(dataset.sort_values(by='A').head())  # los primeros 5
