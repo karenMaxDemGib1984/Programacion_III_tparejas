@@ -13,6 +13,7 @@ print("Primeras 5 filas de los datos:")
 print(dataset.head())
 print(" ")
 
+
 print("Ultimas filas de los datos: ")
 print(dataset.tail())
 print(" ")
